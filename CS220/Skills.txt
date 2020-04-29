@@ -1,0 +1,9 @@
+Calculations:
+	The level of all the skills are level 1
+	The value is calculated by taking the caster's actual power multiplied by its current value(starting values differ per skill), and is multiplied by the skill's level
+	The value of the mana requirement is multiplied by the skill's level
+Skills:
+	Sword Attack (0 mana) - a base damage skill that requires no mana. All the values are calculated similar to the other skills.
+	Fireball (50 mana) - a skill that causes damage on an enemy
+	Healing (150 mana) - a skill that heals the caster
+	Knock Out (100 mana) - a skill that knocks the enemies out. While knocked out, a player can't cast any skills on this or the next round. There is also a recoil damage.
